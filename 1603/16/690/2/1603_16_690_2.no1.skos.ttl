@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:690()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:11" ;
     skos:prefLabel "Central 1 Mahe"@eng-Latn ;
-    wdata:q7200235 "SC11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -47,7 +45,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:12" ;
     skos:prefLabel "Central 2 Mahe"@eng-Latn ;
-    wdata:q7200235 "SC12" ;
 .
 
 <urn:mdciii:1603:16:690:2:13>
@@ -56,7 +53,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:13" ;
     skos:prefLabel "East Mahe"@eng-Latn ;
-    wdata:q7200235 "SC13" ;
 .
 
 <urn:mdciii:1603:16:690:2:14>
@@ -65,7 +61,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:14" ;
     skos:prefLabel "West Mahe"@eng-Latn ;
-    wdata:q7200235 "SC14" ;
 .
 
 <urn:mdciii:1603:16:690:2:15>
@@ -74,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:15" ;
     skos:prefLabel "North Mahe"@eng-Latn ;
-    wdata:q7200235 "SC15" ;
 .
 
 <urn:mdciii:1603:16:690:2:26>
@@ -83,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:26" ;
     skos:prefLabel "Praslin"@eng-Latn ;
-    wdata:q7200235 "SC26" ;
 .
 
 <urn:mdciii:1603:16:690:2:36>
@@ -92,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:36" ;
     skos:prefLabel "La Digue"@eng-Latn ;
-    wdata:q7200235 "SC36" ;
 .
 
 <urn:mdciii:1603:16:690:2:47>
@@ -101,6 +93,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:2:47" ;
     skos:prefLabel "Other Islands"@eng-Latn ;
-    wdata:q7200235 "SC47" ;
 .
 
