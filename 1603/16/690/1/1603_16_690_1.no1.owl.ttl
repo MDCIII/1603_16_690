@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:690:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:690:0> ;
     skos:prefLabel "Mahe"@eng-Latn ;
-    wdata:q7200235 "SC1" ;
+    wdata:Q7200235 "SC1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -48,7 +48,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:690:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:690:0> ;
     skos:prefLabel "Praslin"@eng-Latn ;
-    wdata:q7200235 "SC2" ;
+    wdata:Q7200235 "SC2" ;
 .
 
 <urn:mdciii:1603:16:690:1:3>
@@ -59,7 +59,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:690:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:690:0> ;
     skos:prefLabel "La Digue"@eng-Latn ;
-    wdata:q7200235 "SC3" ;
+    wdata:Q7200235 "SC3" ;
 .
 
 <urn:mdciii:1603:16:690:1:4>
@@ -70,6 +70,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:690:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:690:0> ;
     skos:prefLabel "Other Islands"@eng-Latn ;
-    wdata:q7200235 "SC4" ;
+    wdata:Q7200235 "SC4" ;
 .
 

@@ -22,7 +22,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1109" ;
     skos:prefLabel "Bel Air"@eng-Latn ;
-    wdata:q7200235 "SC1109BA" ;
+    wdata:Q7200235 "SC1109BA" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -69,7 +69,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1116" ;
     skos:prefLabel "English River"@eng-Latn ;
-    wdata:q7200235 "SC1116ER" ;
+    wdata:Q7200235 "SC1116ER" ;
 .
 
 <urn:mdciii:1603:16:690:3:1117>
@@ -79,7 +79,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1117" ;
     skos:prefLabel "Mont Buxton"@eng-Latn ;
-    wdata:q7200235 "SC1117MB" ;
+    wdata:Q7200235 "SC1117MB" ;
 .
 
 <urn:mdciii:1603:16:690:3:1122>
@@ -89,7 +89,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1122" ;
     skos:prefLabel "Saint Louis"@eng-Latn ;
-    wdata:q7200235 "SC1122SL" ;
+    wdata:Q7200235 "SC1122SL" ;
 .
 
 <urn:mdciii:1603:16:690:3:1127>
@@ -99,7 +99,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1127" ;
     skos:prefLabel "Perseverance Island"@eng-Latn ;
-    wdata:q7200235 "SC1127PI" ;
+    wdata:Q7200235 "SC1127PI" ;
 .
 
 <urn:mdciii:1603:16:690:3:1218>
@@ -109,7 +109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1218" ;
     skos:prefLabel "Mont Fleuri"@eng-Latn ;
-    wdata:q7200235 "SC1218MF" ;
+    wdata:Q7200235 "SC1218MF" ;
 .
 
 <urn:mdciii:1603:16:690:3:1219>
@@ -119,7 +119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1219" ;
     skos:prefLabel "Plaisance"@eng-Latn ;
-    wdata:q7200235 "SC1219PA" ;
+    wdata:Q7200235 "SC1219PA" ;
 .
 
 <urn:mdciii:1603:16:690:3:1224>
@@ -129,7 +129,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1224" ;
     skos:prefLabel "Les Mamelles"@eng-Latn ;
-    wdata:q7200235 "SC1224LM" ;
+    wdata:Q7200235 "SC1224LM" ;
 .
 
 <urn:mdciii:1603:16:690:3:1225>
@@ -139,7 +139,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1225" ;
     skos:prefLabel "Roche Caiman"@eng-Latn ;
-    wdata:q7200235 "SC1225RC" ;
+    wdata:Q7200235 "SC1225RC" ;
 .
 
 <urn:mdciii:1603:16:690:3:1301>
@@ -149,7 +149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1301" ;
     skos:prefLabel "Anse Aux Pins"@eng-Latn ;
-    wdata:q7200235 "SC1301AA" ;
+    wdata:Q7200235 "SC1301AA" ;
 .
 
 <urn:mdciii:1603:16:690:3:1304>
@@ -159,7 +159,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1304" ;
     skos:prefLabel "Au Cap"@eng-Latn ;
-    wdata:q7200235 "SC1304AC" ;
+    wdata:Q7200235 "SC1304AC" ;
 .
 
 <urn:mdciii:1603:16:690:3:1305>
@@ -169,7 +169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1305" ;
     skos:prefLabel "Anse Royale"@eng-Latn ;
-    wdata:q7200235 "SC1305AR" ;
+    wdata:Q7200235 "SC1305AR" ;
 .
 
 <urn:mdciii:1603:16:690:3:1311>
@@ -179,7 +179,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1311" ;
     skos:prefLabel "Cascade"@eng-Latn ;
-    wdata:q7200235 "SC1311CA" ;
+    wdata:Q7200235 "SC1311CA" ;
 .
 
 <urn:mdciii:1603:16:690:3:1320>
@@ -189,7 +189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1320" ;
     skos:prefLabel "Pointe Larue"@eng-Latn ;
-    wdata:q7200235 "SC1320PL" ;
+    wdata:Q7200235 "SC1320PL" ;
 .
 
 <urn:mdciii:1603:16:690:3:1323>
@@ -199,7 +199,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1323" ;
     skos:prefLabel "Takamaka"@eng-Latn ;
-    wdata:q7200235 "SC1323TA" ;
+    wdata:Q7200235 "SC1323TA" ;
 .
 
 <urn:mdciii:1603:16:690:3:1402>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1402" ;
     skos:prefLabel "Anse Boileau"@eng-Latn ;
-    wdata:q7200235 "SC1402AB" ;
+    wdata:Q7200235 "SC1402AB" ;
 .
 
 <urn:mdciii:1603:16:690:3:1406>
@@ -219,7 +219,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1406" ;
     skos:prefLabel "Baie Lazare"@eng-Latn ;
-    wdata:q7200235 "SC1406BL" ;
+    wdata:Q7200235 "SC1406BL" ;
 .
 
 <urn:mdciii:1603:16:690:3:1413>
@@ -229,7 +229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1413" ;
     skos:prefLabel "Grand Anse Mahe"@eng-Latn ;
-    wdata:q7200235 "SC1413GM" ;
+    wdata:Q7200235 "SC1413GM" ;
 .
 
 <urn:mdciii:1603:16:690:3:1421>
@@ -239,7 +239,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1421" ;
     skos:prefLabel "Port Glaud"@eng-Latn ;
-    wdata:q7200235 "SC1421PG" ;
+    wdata:Q7200235 "SC1421PG" ;
 .
 
 <urn:mdciii:1603:16:690:3:1503>
@@ -249,7 +249,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1503" ;
     skos:prefLabel "Anse Etoile"@eng-Latn ;
-    wdata:q7200235 "SC1503AE" ;
+    wdata:Q7200235 "SC1503AE" ;
 .
 
 <urn:mdciii:1603:16:690:3:1508>
@@ -259,7 +259,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1508" ;
     skos:prefLabel "Beau Vallon"@eng-Latn ;
-    wdata:q7200235 "SC1508BV" ;
+    wdata:Q7200235 "SC1508BV" ;
 .
 
 <urn:mdciii:1603:16:690:3:1510>
@@ -269,7 +269,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1510" ;
     skos:prefLabel "Belombre"@eng-Latn ;
-    wdata:q7200235 "SC1510BO" ;
+    wdata:Q7200235 "SC1510BO" ;
 .
 
 <urn:mdciii:1603:16:690:3:1512>
@@ -279,7 +279,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:1512" ;
     skos:prefLabel "Glacis"@eng-Latn ;
-    wdata:q7200235 "SC1512GL" ;
+    wdata:Q7200235 "SC1512GL" ;
 .
 
 <urn:mdciii:1603:16:690:3:2607>
@@ -289,7 +289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:2607" ;
     skos:prefLabel "Baie Sainte Anne"@eng-Latn ;
-    wdata:q7200235 "SC2607BS" ;
+    wdata:Q7200235 "SC2607BS" ;
 .
 
 <urn:mdciii:1603:16:690:3:2614>
@@ -299,7 +299,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:2614" ;
     skos:prefLabel "Grand Anse Praslin"@eng-Latn ;
-    wdata:q7200235 "SC2614GP" ;
+    wdata:Q7200235 "SC2614GP" ;
 .
 
 <urn:mdciii:1603:16:690:3:3615>
@@ -309,7 +309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:3615" ;
     skos:prefLabel "La Digue"@eng-Latn ;
-    wdata:q7200235 "SC3615LD" ;
+    wdata:Q7200235 "SC3615LD" ;
 .
 
 <urn:mdciii:1603:16:690:3:4726>
@@ -319,6 +319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:690:3:4726" ;
     skos:prefLabel "Other Islands"@eng-Latn ;
-    wdata:q7200235 "SC4726OI" ;
+    wdata:Q7200235 "SC4726OI" ;
 .
 
